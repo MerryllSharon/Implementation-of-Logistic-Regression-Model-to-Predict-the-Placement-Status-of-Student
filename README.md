@@ -63,8 +63,10 @@ cm_display=metrics.ConfusionMatrixDisplay(confusion_matrix=confusion,display_lab
 cm_display.plot()
 ```
 ## Output:
-![image](https://github.com/harini1006/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/113497405/169cbb29-e146-415e-ad47-9d8acf1f2636)
-![image](https://github.com/harini1006/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/113497405/9e7f72e8-5cd7-4a1b-be01-16c8d79fecb3)
+![image](https://github.com/user-attachments/assets/a2e5e4fb-17d1-4cbd-af0c-7699474da52e)
+
+![image](https://github.com/user-attachments/assets/5ae5ab30-2126-49bc-8c6b-13bb79b74e9c)
+
 
 
 ## Result:
